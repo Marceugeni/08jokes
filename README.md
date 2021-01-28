@@ -1,4 +1,8 @@
 # 08jokes
+
+http://marceugeni.github.io/08jokes  <--- click the link to run the app
+
+
 - Exercici 1
 Igual que vam fer amb javascript, crearem la base del projecte amb React, per a això seguirem els següents passos:
 
