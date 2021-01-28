@@ -14,4 +14,4 @@ https://github.com/itacademyReact/react-template
 
 Nota: En aquest exercici no és necessari maquetar la web, primer farem que funcioni per a passar a aplicar-li els estils.
 
-![title](Images/example.png)
+![title](08jokes/capturachist.PNG)
