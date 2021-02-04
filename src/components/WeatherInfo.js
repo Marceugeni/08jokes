@@ -1,14 +1,7 @@
-
-
-function WeatherInfo ()  async e => {
-    const ApiUrl = `http://api.openweathermap.org/data/2.5/weather?q=barcelona&appid=6c35df700d93402106941f4d54f5a5a1`
-    const Response = await fetch(ApiUrl);
-    const WeatherData = await Response.json();
-    /* console.log(WeatherData) */
-
+function WeatherInfo (props) {
     return(
         <div>
-            <h4>{WeatherData}</h4>
+            <h4>{props.actualWeather}</h4>
         </div>
     )
 }
